@@ -1,0 +1,2 @@
+Ce document a pour fonction de remplir la fonction de document créé pour l'exo2.
+Il sera commité juste après.
